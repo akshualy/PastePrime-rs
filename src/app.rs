@@ -76,4 +76,4 @@ impl ApplicationHandler<UserEvent> for PastePrimeApp {
         _event: WindowEvent,
     ) {
     }
-} 
+}

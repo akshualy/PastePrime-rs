@@ -32,4 +32,4 @@ impl ClipboardTyper {
             self.type_text(&text);
         }
     }
-} 
+}
