@@ -2,6 +2,11 @@
 
 Rust rewrite of my [PastePrime repository](https://github.com/akshualy/PastePrime).
 
+How to start:
+![image](https://i.imgur.com/Brt5Cvt.png)
+
+Press Ctrl+Shift+V to paste whenever Warframe pasting breaks.
+
 ## Requirements
 
 - Rust
