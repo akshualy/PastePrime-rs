@@ -1,0 +1,4 @@
+/target
+.idea/
+certificate.pfx
+sign.ps1
